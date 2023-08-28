@@ -6,3 +6,4 @@ practica
 
 
 subiendo de nuevo algo
+hola soy rut
